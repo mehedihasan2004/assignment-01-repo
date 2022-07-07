@@ -25,7 +25,7 @@ h2 {
 
 .donate-now {
     color: white;
-    background-image: linear-gradient(navy, blue);
+    background-image: linear-gradient(red, tomato);
     text-decoration: none;
     padding: 10px 30px;
     font-weight: 700;
@@ -83,7 +83,7 @@ h2 {
     width: 150px;
     margin: 30px;
     border: none;
-    background-color: rgba(255, 228, 196, 0.623);
+    background-color: rgba(210, 107, 189, 0.623);
 }
 
 #shelter {
@@ -97,7 +97,7 @@ h2 {
     width: 200px;
     margin: 30px;
     border: none;
-    background-color: rgba(255, 228, 196, 0.623);
+    background-color: rgba(84, 172, 231, 0.623);
 }
 
 #end-page {
@@ -127,6 +127,7 @@ h2 {
 
 #footer-h {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
 }
 
 #footer-p {
@@ -138,4 +139,8 @@ h2 {
     color: white;
     text-align: center;
     height: 150px;
+}
+
+.color {
+    background-color: rgba(255, 127, 80, 0.486);
 }
